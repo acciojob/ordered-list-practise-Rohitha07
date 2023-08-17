@@ -1,1 +1,20 @@
+/* styles.css */
 
+/* Add styles to the <p> tag */
+p {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Add styles to the <ol> tag */
+ol {
+    list-style-type: decimal;
+    margin-left: 20px;
+}
+
+/* Add styles to the <li> tags */
+li {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
